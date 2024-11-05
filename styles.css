@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('https://lh3.googleusercontent.com/drive-storage/AJQWtBNbrhxJq6UVZjxfogRYuxkS8lorzKDdRYcPQSrO25LtVXOUxrz_id0_p_gt7gv2ra1Yr8pl4Bi-PN6fZdoTBrzbgUwdS-UM5t28JJQ3ResEIvc=w1919-h991'); /* Replace with actual image path */
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    background-color: #B7AEAE;
+    padding: 24px; 
+    width: 900px;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    text-align: center;
+}
+h1 {
+    font-size: 48px;
+    
+}
+.founded {
+    font-size: 24px;
+    margin-top: 24px; 
+    margin-bottom: 40px;
+}
+.prices {
+    text-align: left;
+    padding: 24px; 
+}
+.prices h3 {
+    font-size: 38px;
+    margin-top: 0px;
+    margin-bottom: 24px; 
+    text-align: center;
+}
+.item {
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    padding: 24px; 
+}
+#zel {
+    margin-top: 32px;
+}
